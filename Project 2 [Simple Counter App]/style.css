@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    margin-top: 300px;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    font-size: 70px;
+}
+
+h2 {
+    font-size: 70px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 30px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+#plus{
+    background-color: rgb(106, 219, 106);
+}
+
+#minus{
+    background-color: rgb(242, 90, 90);
+}
+
+#reset{
+    background-color: rgb(185, 254, 231);
+}
